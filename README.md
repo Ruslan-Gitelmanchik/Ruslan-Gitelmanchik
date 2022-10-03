@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruslan-Gitelmanchik
-- 👀 I’m interested in programming on Python.
+- 👀 I’m interested in programming on Python
 - 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  zxcrusunic@gmail.com 
